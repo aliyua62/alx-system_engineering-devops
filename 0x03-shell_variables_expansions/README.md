@@ -1,1 +1,2 @@
-Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
+There are 10 types of people in the world -- Those who understand binary, and those who dont>README.md
+echo There are 10 types of people in the world -- Those who understand binary, and those who dont
