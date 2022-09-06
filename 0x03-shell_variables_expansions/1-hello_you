@@ -1,1 +1,1 @@
-hello $USER
+echo hello $USER
