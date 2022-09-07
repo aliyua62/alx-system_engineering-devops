@@ -1,1 +1,2 @@
-Everyone is a proponent of strong encryption
+Im an instant star. Just add water and stir>README.md
+echo Im an instant star. Just add water and stir
